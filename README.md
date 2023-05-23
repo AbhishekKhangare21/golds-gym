@@ -7,7 +7,7 @@ Live Website - https://gym-app-abhishek-khangare.netlify.app/
 
 ## Screenshots
 
-<img src='https://i.ibb.co/6XBLNnx/Screenshot-from-2023-01-14-11-04-40.png' width="100%" />
+![Screenshot (86)](https://github.com/AbhishekKhangare21/golds-gym/assets/113746515/bd738f65-2136-4a6a-9762-dd129658c5e8)
 <br />
 <img src='https://i.ibb.co/KGLsnLP/Screenshot-from-2023-01-14-11-11-02.png' width="100%" />
 <br />
