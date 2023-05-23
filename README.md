@@ -2,8 +2,13 @@ Golds Gym
 =========  
 Live Website - https://gym-app-abhishek-khangare.netlify.app/
 
+- Golds gym is a modern fitness application developed using React JS with help of ExerciseDB API from Rapid API.
+- This application display different exercise and their similar exercises.
 
+## Screenshots
 
-Golds Gym Fitness App created using ReactJS, Material UI and [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) data provided by [RapidAPI](https://rapidapi.com/hub). With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more!  
-
-
+<img src='https://i.ibb.co/6XBLNnx/Screenshot-from-2023-01-14-11-04-40.png' width="100%" />
+<br />
+<img src='https://i.ibb.co/KGLsnLP/Screenshot-from-2023-01-14-11-11-02.png' width="100%" />
+<br />
+<img src='https://i.ibb.co/ypqBX0h/Screenshot-from-2023-01-14-11-11-39.png' width="100%" />
